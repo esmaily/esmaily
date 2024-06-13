@@ -10,7 +10,7 @@
 
 <h3> Here's some fun facts about me: </h3>
 
-- 🔭 I’m currently working on Java/Python Backend Developer
+- 🔭 I’m currently working on stock brokerage as  Java/Python Backend Developer
 - 🌱 I’m currently learning big data processing and kubernetes clustring
 - 💬 Ask me about how scale and process large scale projects 
 - 📫 I am also a technical writer at Virgol 
